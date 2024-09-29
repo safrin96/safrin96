@@ -3,7 +3,7 @@
 💼 I'm a Data Analytics and Business Intelligence professional based in Denver, Colorado, currently working in the education sectior to create 100% data-driven, innovative insights using organizational data. I have expertise in data analysis, business requirement analysis and reporting, query optimization, database design, and financial data modelling.
 
   - Querying data using SQL.
-  - Generate reports and perform ad-hoc data analysis using SQL.
+  - Generate reports and perform ad-hoc data analysis using SQL, PowerBI.
   - Developing dashboards on Tableau and Looker Studio.
   - Data analysis and reporting using Google Sheets and Excel.
     
