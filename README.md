@@ -11,7 +11,7 @@
 
 📚 Projects
 
-Welcome to my portfolio, where I showcase my projects.
+Welcome to my portfolio, where I showcase my [projects](https://github.com/safrin96/Portfolio).
 
 🛠️ Tools
 
@@ -22,9 +22,9 @@ Welcome to my portfolio, where I showcase my projects.
 🎓 Certifications  
 
 - Microsoft Data Analyst
-- Certified Scrum Product Owner (CSPO) Master
+- Certified Scrum Product Owner (CSPO)
 
-💞️ I enjoy building communities in analytics & tech. I'm the Outreach Coordinator for AI Student Association at CU Denver where I help with educating the community around pros and cons AI, demystify the buzzword and work on creating awareness towards the digital safety in the era of AI.Currently helping in organizing the Decoy Challenge.  
+💞️ I enjoy building communities in analytics & tech. I'm the Outreach Coordinator for AI Student Association at CU Denver where I help with educating the community around pros and cons AI, demystify the buzzword and work on creating awareness towards the digital safety in the era of AI. Currently helping in organizing the Decoy Challenge on campus.  
 
 ![image](https://github.com/user-attachments/assets/4772b15a-7855-474b-8295-a23f869acb9f)
   
