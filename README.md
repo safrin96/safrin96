@@ -11,7 +11,7 @@
 
 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/safrin96/Portfolio).
+Welcome to my portfolio, where I showcase my journey to become a self-taught data scientist and showcase my [projects](https://github.com/safrin96/Portfolio) accumulated along this path!!
 
 🛠️ Tools
 
@@ -24,9 +24,9 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/safri
 - Microsoft Data Analyst
 - Certified Scrum Product Owner (CSPO)
 
-💞️ I enjoy building communities in analytics & tech. I'm the Outreach Coordinator for AI Student Association at CU Denver where I help with educating the community around pros and cons AI, demystify the buzzword and work on creating awareness towards the digital safety in the era of AI. Currently helping in organizing the Decoy Challenge on campus.  
+💞️ I enjoy building communities in analytics & tech. I'm the Outreach Coordinator for AI Student Association at CU Denver where I help with educating the community around pros and cons AI, demystify the buzzword and work on creating awareness towards the digital safety in the era of AI. Currently helping in organizing the [Decoy Challenge](https://www.linkedin.com/company/cudenver-ai/) on campus.
 
-![image](https://github.com/user-attachments/assets/4772b15a-7855-474b-8295-a23f869acb9f)
+🔭 I’m currently working on researching new tools based on Generative AI which I found eye catching and making fun articles for them for all audiences. Check out [here](https://www.linkedin.com/pulse/dall-e-2-bringing-my-favorite-novels-life-one-image-time-shrabony-xjkfc?trackingId=VRIgl3CJTGi2kFDlwkHUqQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5rrMRqxnRT26lFfJt%2BoHjw%3D%3D).
   
 👋🏻 Connect with Me: [Linkedin](https://www.linkedin.com/in/sumaiya-shrabony/)
 
