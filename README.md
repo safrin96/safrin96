@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sumaiya. 
 
-💼 I'm a Data Analytics and Business Intelligence professional based in Denver, Colorado, currently working in the education sectior to create 100% data-driven, innovative insights using organizational data. I have expertise in data analysis, business requirement analysis and reporting, query optimization, database design, and financial data modelling.
+💼 I'm a Technical Program Manager based in Denver, Colorado, currently working in the education sectior to create 100% data-driven, innovative insights using organizational data. I have expertise in data analysis, business requirement analysis and reporting, query optimization, database design, and financial data modelling.
 
  **I have expertise in:**
 
