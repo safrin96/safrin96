@@ -1,69 +1,115 @@
-## Hi there 👋 I'm Sumaiya. 
+<div align="center">
 
-💼 I'm a Technical Program Manager based in Denver, Colorado, currently working in the education sectior to create 100% data-driven, innovative insights using organizational data. I have expertise in data analysis, business requirement analysis and reporting, query optimization, database design, and financial data modelling.
+# Hi, I'm Sumaiya 👋
 
- **I have expertise in:**
+### Technical Program Manager · Scrum Master · Data Visualization Strategist
 
-  - Data analysis and reporting using SQL, Google Sheets, Excel, PowerBI, and Tableau.
-  - Query optimization and database design.
-  - Financial data modeling and business requirement analysis.
-  - Dynamic Knowledge Tracing for Personalized Learning Pathways using Deep Learning, working with large datasets.
-  - E-commerce User Behavior Analytics using BigQuery and Snowflake to drive insights and optimize business decisions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sumaiya--shrabony-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaiya-shrabony)
+[![Email](https://img.shields.io/badge/Email-sshrabony%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sshrabony@gmail.com)
 
-![SQL](https://img.shields.io/badge/SQL-00758f?style=for-the-badge&logo=sql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white)
-![Google Looker Studio](https://img.shields.io/badge/Google%20Looker%20Studio-4285F4?style=for-the-badge&logo=google-looker-studio&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-    
-📚 **Projects**
+![Location](https://img.shields.io/badge/📍_Denver,_CO-gray?style=flat-square)
+![Open to Work](https://img.shields.io/badge/✅_Open_to_Roles-TPM_·_AI_Strategy_·_Data_Analytics_Leadership-2ea44f?style=flat-square)
 
-Welcome to my portfolio, where I showcase my journey to become a self-taught data scientist and showcase my [projects](https://github.com/safrin96/Portfolio) accumulated along this path!!
+</div>
 
-## 🛠️ Tools I Use
+---
 
-| Skill         | Tools                               |
-| ------------- |  ----------------------------------- |
-| Data Analysis | Python, Excel, Scikit-learn, Numpy, Tensorflow, Keras |
-| Visualization | Tableau, PowerBI, Looker Studio |
-| Database | PostgreSQL, MySQL |
-| Data Warehouse | Snowflake, Google BigQuery |
+## 🙋‍♀️ About Me
 
-🎓 **Certifications**  
+I'm a **Technical Program Manager** with **6+ years** leading cross-functional delivery of cloud data platforms, Snowflake centralization initiatives, AI adoption programs, and enterprise digital transformation valued at **$1M+**.
 
-- Microsoft Data Analyst
-- Certified Scrum Product Owner (CSPO)
+Currently at the **University of Colorado Denver**, I lead:
+- 🏔️ **Snowflake data infrastructure modernization** across 6 departments
+- 🤖 **AI adoption strategy** — coordinating tool evaluation, stakeholder readiness, and change management to embed AI into academic and operational workflows
 
-💞 **Community Building**: I’m the Outreach Coordinator for the AI Student Association at CU Denver. I help educate the community about AI, its risks, and the importance of digital safety. We’re currently organizing the [Decoy Challenge](https://www.linkedin.com/company/cudenver-ai/) on campus!
+I specialize in making ambiguity actionable through SAFe increment planning, Scrum facilitation, executive-ready dashboards, and coaching project owners from Software Engineers to VPs through intake and delivery.
 
-🔭 I’m working on researching new Generative AI tools. [Check out my reviews here](https://www.linkedin.com/pulse/dall-e-2-bringing-my-favorite-novels-life-one-image-time-shrabony-xjkfc?trackingId=VRIgl3CJTGi2kFDlwkHUqQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5rrMRqxnRT26lFfJt%2BoHjw%3D%3D).
-  
-👋🏻 **Connect with Me**: [Linkedin](https://www.linkedin.com/in/sumaiya-shrabony/)
+---
 
-⚡ **Fun fact**: Proud cat mom of a beautiful, demure princess. Always happy to chat about my baby! 
+## 🚀 Impact Highlights
 
-## Transition into Data Analytics Guide
-👩🏻‍💻 Are you keen on pursuing a career in data analytics, but feeling lost on how to take the first steps? Check out this amazing guide to self-study and transition to Data analytics by [Katie Huang](https://github.com/katiehuangx/Transition-into-Data-Analytics?tab=readme-ov-file#-where-to-learn-sql). 
+| Initiative | Outcome |
+|---|---|
+| Snowflake centralization — 6 departments | 📈 20% faster enterprise reporting |
+| AI adoption program — CU Denver | 🤖 Embedded AI across academic + operational workflows |
+| SAFe increment planning & Jira governance | ⏱️ 25% increase in on-time delivery |
+| Risk management & executive alignment | 💰 $200K in rework prevented |
+| $1.3M ERP transformation | ✅ Delivered within 2% of budget, 95% user adoption |
+| Cross-functional facilitation — Optimizely | 📊 30% SLA improvement |
+
+---
+
+## 🛠️ Tech & Tools
+
+**Program Management**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![SAFe](https://img.shields.io/badge/SAFe-Agile-0078D7?style=flat-square)
+![Scrum](https://img.shields.io/badge/Scrum-CSPO_Certified-6DB33F?style=flat-square)
+
+**Data & Visualization**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+---
+
+## 💡 Core Competencies
+
+```
+📋 Enterprise Program & Portfolio Management     🎯 SAFe · Scrum · Waterfall · Increment Planning
+📊 Data Visualization & Storytelling             🏗️ Snowflake · Tableau · Power BI · SQL
+🎤 Scrum Facilitation & Ceremony Leadership      🔗 Sprint Planning · Backlog Grooming · Steering Committees
+🤝 Stakeholder & Executive Engagement            📣 VP–Engineer Alignment · Consensus Building
+⚙️ Program Governance & Risk Management         📐 SDLC · Dependency Mapping · Change Management
+```
+
+---
+
+## 🌱 Community & Content
+
+Beyond my day job, I'm building in public around **AI literacy for non-technical professionals** — breaking down AI concepts in plain language for program managers, educators, and operators navigating the shift.
+
+📝 I publish weekly on [LinkedIn](https://www.linkedin.com/in/sumaiya-shrabony) about **Data, AI & Strategy**
+
+---
+
+## 🎓 Education 
+
+🎓 **MS, Information Systems** — University of Colorado Denver *(2024–2025)*
+🎓 **BSc, Computer Science** — Hofstra University *(2015–2019)*
 
 
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safrin96&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safrin96&layout=compact&theme=radical)
+## Certifications
 
+![CSPO](https://img.shields.io/badge/CSPO-Scrum_Alliance-6DB33F?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI_Analyst-Microsoft-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Google PM](https://img.shields.io/badge/Project_Management-Google_Coursera-4285F4?style=flat-square&logo=google&logoColor=white)
+![Stanford](https://img.shields.io/badge/AI_in_Healthcare-Stanford-8C1515?style=flat-square)
 
-<!--
-**safrin96/safrin96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Awards
 
-Here are some ideas to get you started:
+🏆 *Cause for Applause Award — CU Denver (2025) · Optimizely Spot Awards Q1 & Q2 2023 · Palantir Women in Tech Scholarship*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ Let's Connect
+
+📩 Open to **Technical Program Manager · AI Program Strategy · Data & Analytics Leadership · TechOps · Enterprise Transformation** roles
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaiya-shrabony)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/safrin96)
+
+</div>
