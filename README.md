@@ -19,8 +19,6 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
     
-🌱 I’m currently pursuing Master's Degree in Information Systems at University of Colorado Denver where I am focusing on Business Intelligence in Healthcare, Financial Modelling, IT Strategy, Enterprise Risk management and Project Management.
-
 📚 **Projects**
 
 Welcome to my portfolio, where I showcase my journey to become a self-taught data scientist and showcase my [projects](https://github.com/safrin96/Portfolio) accumulated along this path!!
