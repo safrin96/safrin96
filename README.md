@@ -6,9 +6,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sumaiya--shrabony-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaiya-shrabony)
 [![Email](https://img.shields.io/badge/Email-sshrabony%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sshrabony@gmail.com)
+[![Newsltter](https://img.shields.io/badge/build-aibyshrabony-brightgreen?style=for-the-badge&logo=substack&logoColor=%23FF6719&logoSize=auto&label=Newsletter&labelColor=%23F4B942&color=%23CC2424&cacheSeconds=3600&)](https://aibyshrabony.substack.com)
+
 
 ![Location](https://img.shields.io/badge/📍_Denver,_CO-gray?style=flat-square)
 ![Open to Work](https://img.shields.io/badge/✅_Open_to_Roles-TPM_·_AI_Strategy_·_Data_Analytics_Leadership-2ea44f?style=flat-square)
+
+
 
 </div>
 
